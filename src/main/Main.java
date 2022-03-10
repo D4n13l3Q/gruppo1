@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Ciao sono Daniele");
+		System.out.println("Ciao sono Daniele Quasimodo");
 		System.out.println("Ciao sono Alberto Alineri");
 		System.out.println("Ciao sono Lois Ira Capulong");
 		System.out.println("Ciao sono Cristian Nicolotti");
