@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("Ciao sono Lois Ira Capulong");
 		System.out.println("Ciao sono Cristian Nicolotti");
 		System.out.println("Ciao sono Assia Samime");
+		System.out.println("Ciao sono Simone Stella");
 	}
 
 }
