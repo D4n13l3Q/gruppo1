@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("Ciao sono Daniele");
 		System.out.println("Ciao sono Alberto Alineri");
+		System.out.println("Ciao sono Lois Ira Capulong");
 	}
 
 }
